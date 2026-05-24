@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"strings"
 
-	"backend/internal/domain"
-	"backend/internal/infrastructure/memory"
-	"backend/internal/infrastructure/spotify"
-	"backend/internal/usecase"
+	"demo-tmp/internal/domain"
+	"demo-tmp/internal/infrastructure/memory"
+	"demo-tmp/internal/infrastructure/spotify"
+	"demo-tmp/internal/usecase"
 )
 
 type Server struct {

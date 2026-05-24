@@ -4,8 +4,8 @@ import (
 	"context"
 	"sync"
 
-	"backend/internal/domain"
-	"backend/internal/usecase"
+	"demo-tmp/internal/domain"
+	"demo-tmp/internal/usecase"
 )
 
 type FavoriteTrackRepository struct {

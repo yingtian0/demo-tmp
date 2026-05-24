@@ -4,10 +4,10 @@ import (
 	"log"
 	"net/http"
 
-	"backend/internal/httpapi"
-	"backend/internal/infrastructure/memory"
-	"backend/internal/infrastructure/spotify"
-	"backend/internal/usecase"
+	"demo-tmp/internal/httpapi"
+	"demo-tmp/internal/infrastructure/memory"
+	"demo-tmp/internal/infrastructure/spotify"
+	"demo-tmp/internal/usecase"
 )
 
 func main() {

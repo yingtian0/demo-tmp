@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"backend/internal/usecase"
+	"demo-tmp/internal/usecase"
 )
 
 type SpotifyAccountLink struct {

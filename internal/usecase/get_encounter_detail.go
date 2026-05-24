@@ -3,7 +3,7 @@ package usecase
 import (
 	"context"
 
-	"backend/internal/domain"
+	"demo-tmp/internal/domain"
 )
 
 type GetEncounterDetailInput struct {
